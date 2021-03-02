@@ -2,8 +2,6 @@
 
 All notable changes to the "devops-stuff" extension pack will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+## [v1]
 
 - Initial release
