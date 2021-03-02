@@ -15,3 +15,5 @@
 	br = branch --format='%(HEAD) %(color:yellow)%(refname:short)%(color:reset) - %(contents:subject) %(color:green)(%(committerdate:relative)) [%(authorname)]' --sort=-committerdate
 [help]
 	autocorrect = 20
+[core]
+	editor = C:\\Program Files\\Sublime Text 3\\sublime_text.exe
