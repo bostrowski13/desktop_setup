@@ -1,0 +1,37 @@
+{
+    "name": "devops-stuff",
+    "displayName": "devops_stuff",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "amazonwebservices.aws-toolkit-vscode", 
+        "ArgyleWolfLabs.vscode-groovy", 
+        "donjayamanne.githistory", 
+        "eamodio.gitlens", 
+        "EditorConfig.EditorConfig", 
+        "eg2.vscode-npm-script", 
+        "eriklynd.json-tools", 
+        "golang.go", 
+        "hashicorp.terraform", 
+        "mark-tucker.aws-cli-configure", 
+        "marp-team.marp-vscode", 
+        "mhutchie.git-graph", 
+        "mohsen1.prettify-json", 
+        "ms-azuretools.vscode-docker", 
+        "ms-kubernetes-tools.vscode-kubernetes-tools", 
+        "ms-vscode-remote.remote-wsl", 
+        "ms-vscode.powershell", 
+        "NicolasVuillamy.vscode-groovy-lint", 
+        "redhat.java", 
+        "redhat.vscode-yaml", 
+        "shd101wyy.markdown-preview-enhanced", 
+        "wwm.better-align", 
+        "yzhang.markdown-all-in-one"
+    ]
+}
