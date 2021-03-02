@@ -14,3 +14,6 @@ A chocolatey package with all the apps I use.  Easier than installing everything
 
 Things that are convenient and the way I like them.
 
+## VSCode Extension Pack
+
+Experimental, just trying it out.  Hopefully it saves me in the future.  If not, at least I have a list of extensions.
