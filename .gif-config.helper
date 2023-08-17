@@ -17,4 +17,4 @@
 [help]
 	autocorrect = 20
 [core]
-	editor = C:\\Program Files\\Sublime Text 3\\sublime_text.exe
+	editor = C:\\Program Files\\Microsoft VS Code\\code.exe
