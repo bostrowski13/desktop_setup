@@ -27,6 +27,8 @@ refreshenv
 New-Alias ll Get-Childitem
 New-Alias touch New-Item
 New-Alias grep sls
+New-Alias whoami whoami.exe
+New-Alias which get-command
 
 # Find terraform and tf apps (tflint, tfsec)
 $tfloc = where.exe terraform.exe
